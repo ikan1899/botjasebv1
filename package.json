@@ -1,0 +1,28 @@
+{
+  "name": "hama",
+  "version": "1.6",
+  "description": "Creatd By hama",
+  "main": "kyzzavilable00.js",
+  "scripts": {
+    "start": "node kyzzavilable00.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.12",
+    "axios": "^1.7.9",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.13",
+    "js-confuser": "^2.0.0",
+    "moment": "^2.30.1",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.63.0",
+    "node-upload-images": "^1.0.1",
+    "pino": "^9.6.0",
+    "ssh2": "^1.16.0",
+    "yt-search": "^2.6.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "author": "hama",
+  "license": "ISC"
+}
